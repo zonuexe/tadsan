@@ -1,0 +1,11 @@
+* USAMI Kenta (@tadsan, Zonu.EXE)
+ヾ(〃＞＜)ﾉﾞ＜ My information repository
+** Who am I?
+   - USAMI Kenta (family-name-first style, my name is *Kenta*)
+   - 宇佐美 健太 (うさみけんた)
+   - Twitter: [[https://twitter.com/tadsan][@tadsan]] (たっどさん)
+   - GitHub: [[https://github.com/zonuexe][@zonuexe]] (ぞぬ・えぐぜ)
+   - EmacsWiki: https://www.emacswiki.org/emacs/ZonuExe
+** Contents
+   - [[https://github.com/zonuexe/tadsan/issues?utf8=%E2%9C%93&q=is%3Aissue%20label%3A%E6%97%A5%E5%A0%B1%20][日報]] - My daily report in Japanese
+   - [[https://github.com/zonuexe/dotfiles][dotfiles]] - Includes [[https://github.com/zonuexe/dotfiles/blob/master/.vimrc][.vimrc]] and [[https://github.com/zonuexe/dotfiles/tree/master/.emacs.d][.emacs.d]].
